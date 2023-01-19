@@ -1,2 +1,2 @@
 git pull
-ikanMD_NR01
+ikanMD_NR
